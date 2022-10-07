@@ -1,4 +1,4 @@
-- 👋🏼 Hi, I’m Kristin Lam.
+- 👋🏼 Hi, I’m Kristin Lam!
 - 🌱 I love crocheting, reading, and cooking.
 - 💻 I’m currently working with JavaScript, React, Redux, Express, and Sequelize.
-- 💌 Feel free to reach out to me on my [LinkedIn](https://www.linkedin.com/in/kristin-lam/) or email me at [klam623@gmail.com](mailto:klam623@gmail.com).
+- 💌 Reach out to me on my [LinkedIn](https://www.linkedin.com/in/kristin-lam/) or email me at [klam623@gmail.com](mailto:klam623@gmail.com).
